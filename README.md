@@ -1,3 +1,6 @@
+[<img src="https://user-images.githubusercontent.com/88201067/189495425-f9283795-baf0-440d-b8e3-ace2e2612ebc.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/edit/main/README_es.md)
+[<img src="https://user-images.githubusercontent.com/88201067/189495384-f31a3fa8-1654-4811-a023-8e25206d3ad2.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/edit/main/README.md)
+
 # Hi there 👋
 
 My name is Marina and I am a Junior Frontend Developer. I feel confortable using HTML, CSS, JavaScript, PHP and SQL. I am a lifelong learner, I try to stay focused on my goals and I love teamworking since it challenges myself to become a better developer. I have some knowledge of AWS, postman, Angular, Node.js, Python, C and Java.
