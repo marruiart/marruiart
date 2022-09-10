@@ -7,7 +7,7 @@ Mi nombre es Marina y soy programadora Frontend Junior. Me desenvuelvo bien en H
 ### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
 Desde septiembre de 2022 estudio un Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/). 
 
-Estos estudios desarrollan competencias generales para desarrollar, instalar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso seguro a los datos y cumpliendo con los criterios de «usabilidad» y calidad exigidos por las normas establecidas. estándares
+Estos estudios desarrollan las competencias generales para desarrollar, instalar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso seguro a los datos y cumpliendo con los criterios de «usabilidad» y calidad exigidos por los estándares.
 
 ### [Estudiante en 42 Malaga](https://www.42malaga.com/)
 ![image](https://user-images.githubusercontent.com/88201067/189473952-bf70137c-0788-4d8a-b96e-ba62ad6d92c3.png) <br>
