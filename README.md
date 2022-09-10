@@ -13,7 +13,7 @@ With this studies, I will acquire the General Competence with regard to developi
 ![image](https://user-images.githubusercontent.com/88201067/189473952-bf70137c-0788-4d8a-b96e-ba62ad6d92c3.png) <br>
 Inside the 42 Network students are very proactive and engaged with a strong community and peer-to-peer curriculum. The education model focuses on project-based learning and teamwork, which is an outstanding methodology to develop both hard and soft skills.
 
-In July 2022 I finished the "C Piscine", a 26-day on-site pre-selection period where candidates, not yet students, complete individual projects, pass exams and improve teamwork skills. After that, I was selected to continue my studies at 42 as a student. 
+In July 2022 I finished the "C Piscine", a 26-day on-site pre-selection period where candidates, not yet students, complete individual projects, pass exams and improve teamwork skills. After that, I was selected to continue at 42 as a student. 
 
 #### Hard skills
 * __C Language__: it is the first language that we learn at 42.  dealing with variables, pointers, memory allocation, creating functions and programs, including the use and creation of libraries and Makefiles.
