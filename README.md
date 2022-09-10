@@ -1,5 +1,5 @@
-[<img src="https://user-images.githubusercontent.com/88201067/189495425-f9283795-baf0-440d-b8e3-ace2e2612ebc.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/edit/main/README_es.md)
-[<img src="https://user-images.githubusercontent.com/88201067/189495384-f31a3fa8-1654-4811-a023-8e25206d3ad2.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/edit/main/README.md)
+[<img src="https://user-images.githubusercontent.com/88201067/189495425-f9283795-baf0-440d-b8e3-ace2e2612ebc.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/blob/main/README_es.md)
+[<img src="https://user-images.githubusercontent.com/88201067/189495384-f31a3fa8-1654-4811-a023-8e25206d3ad2.png" width="50" align="right"/>](https://github.com/marruiart/marruiart/blob/main/README.md)
 
 # Hi there 👋
 
