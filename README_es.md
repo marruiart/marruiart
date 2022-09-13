@@ -2,6 +2,21 @@
 
 Mi nombre es Marina y soy programadora Frontend Junior. Me desenvuelvo bien en HTML, CSS, JavaScript, PHP and SQL. Siempre estoy aprendiendo algo, me centro en orientarme a logros y me gusta colaborar en equipo, lo que me ayuda a superarme. También he montado instancias de AWS y he utilizado postman, Bash, Angular y Node.js. Tengo algunos conocimientos de Python, C y Java.
 
+## Lenguajes de programación, frameworks y herramientas
+
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" align="left"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="48" align="left"/>
+
+<br>
+<br>
+
 ## Experiencia
 
 ### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
