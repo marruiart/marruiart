@@ -11,6 +11,7 @@ My name is Marina and I am a Junior Frontend Developer. I feel confortable using
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" align="left"/>
+<img src="https://user-images.githubusercontent.com/88201067/189842194-7873c5c0-6f76-4bf8-9051-134f83bf017e.png" height="48" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" align="left"/>
