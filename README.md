@@ -5,6 +5,21 @@
 
 My name is Marina and I am a Junior Frontend Developer. I feel confortable using HTML, CSS, JavaScript, PHP and SQL. I am a lifelong learner, I try to stay focused on my goals and I love teamworking since it challenges myself to become a better developer. I have some knowledge of AWS, postman, Angular, Node.js, Python, C and Java.
 
+## Programming languages, frameworks and tools
+
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" align="left"/>
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" align="left"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="48" align="left"/>
+
+<br>
+<br>
+
 ## Experience
 
 ### [Multi-platform Applications Development](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
