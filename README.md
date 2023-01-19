@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-My name is Marina and I am a Junior Frontend Developer. I feel confortable using HTML, CSS, JavaScript, PHP and SQL. I am a lifelong learner, I try to stay focused on my goals and I love teamworking since it challenges myself to become a better developer. I have some knowledge of AWS, Lumen, Angular, Node.js, Python, C and Java.
+My name is Marina and I am a Junior Frontend Developer. I feel confortable using Java, HTML, CSS, JavaScript, PHP and SQL. I am a lifelong learner, I try to stay focused on my goals and I love teamworking since it challenges myself to become a better developer. I have some knowledge of AWS, Lumen, Angular, Node.js, Python and C.
 
 ## Programming languages, frameworks and tools
 
