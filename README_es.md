@@ -4,7 +4,7 @@ Soy una programadora fullstack junior con experiencia en diversos lenguajes de p
 
 Me apasiona el aprendizaje continuo y estoy siempre buscando mejorar mis habilidades de programación y diseño, por lo que he realizado diversos cursos de marketing digital, python, git/github, testing... Me encanta trabajar en equipo y soy una persona muy colaborativa, siempre dispuesta a compartir conocimientos y aprender de los demás. Estas inquietudes me lanzaron a la piscina de 42 Málaga, donde actualmente soy estudiante.
 
-Si esto te ha resultado interesante, no dudes en revisar mis proyectos en GitHub o visitar mi perfil de LinkedIn. 
+Si esto te ha resultado interesante, no dudes en revisar mis proyectos en [GitHub](https://github.com/marruiart?tab=repositories) o visitar mi perfil de [LinkedIn](https://linkedin.com/in/marruiart). 
 
 ## Conocimiento tech
 
