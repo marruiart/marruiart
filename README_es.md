@@ -30,7 +30,7 @@ Si esto te ha resultado interesante, no dudes en revisar mis proyectos en [GitHu
 
 ## Experiencia
 
-### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://fp.iescampanillas.com/ciclos-formativos/cfgs-dam/](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
+### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
 Desde septiembre de 2022 estudio un Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/). 
 
 Estos estudios desarrollan las competencias generales para desarrollar, instalar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso seguro a los datos y cumpliendo con los criterios de «usabilidad» y calidad exigidos por los estándares.
