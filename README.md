@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-I am a junior full-stack programmer with experience in several programming languages and technologies. I have developed projects using JavaScript, Java, PHP, and C, I have worked as well with both SQL and non-relational databases such as MongoDB. In addition to my programming skills, I also have experience in web design using HTML and CSS, in addition to creating websites with WordPress. I have also used virtualization tools such as Docker, Virtualbox, AWS, and VMWare. I have used frameworks such as Angular, Lumen, among other tools like Postman, JSP, Bootstrap, Material.io, Figma, etc.
+I am a junior frontend programmer with experience in several programming languages and technologies. I have developed projects using JavaScript, Java, PHP, and C, I have worked as well with both SQL and non-relational databases such as MongoDB. In addition to my programming skills, I also have experience in web design using HTML and CSS, in addition to creating websites with WordPress. I have also used virtualization tools such as Docker, Virtualbox, AWS, and VMWare. I have used frameworks such as Angular, Lumen, among other tools like Postman, JSP, Bootstrap, Material.io, Figma, etc.
 
 I am a passionate longlife learner and I am always looking to improve my programming and design skills. As a result, I have taken various courses in digital marketing, Python, Git/GitHub, testing, and other related fields. I love teamworking and I am a very collaborative person, always willing to share knowledge and learn from others. These interests led me to enroll at 42 Málaga, where I am currently a student.
 
