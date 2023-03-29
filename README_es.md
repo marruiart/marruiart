@@ -27,6 +27,7 @@ Si esto te ha resultado interesante, no dudes en revisar mis proyectos en [GitHu
 * [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
 * [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
 * [Juego de cartas (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
+* [Ver más](https://github.com/marruiart?tab=repositories)
 
 ## Experiencia
 
@@ -36,7 +37,7 @@ Desde septiembre de 2022 estudio un Ciclo Superior de Desarrollo de Aplicaciones
 Estos estudios desarrollan las competencias generales para desarrollar, instalar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso seguro a los datos y cumpliendo con los criterios de «usabilidad» y calidad exigidos por los estándares.
 
 ### [Certificado de Profesionalidad de Desarrollo de Aplicaciones con Tecnologías Web](https://www.todofp.es/dam/todofp/certificados-profesionalidad/europass/n3-ifcd0210-es-pub.pdf)
-En noviembre de 2022 finalicé el CDP de Desarrollo de Aplicaciones con Tecnologías Web en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/), donde .
+En noviembre de 2022 finalicé el CDP de Desarrollo de Aplicaciones con Tecnologías Web en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/).
 
 ### [Estudiante en 42 Malaga](https://www.42malaga.com/)
 ![image](https://user-images.githubusercontent.com/88201067/189473952-bf70137c-0788-4d8a-b96e-ba62ad6d92c3.png) <br>
