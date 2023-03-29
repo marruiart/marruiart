@@ -1,8 +1,12 @@
 # Hola 👋
 
-Mi nombre es Marina y soy programadora Frontend Junior. Me desenvuelvo bien en HTML, CSS, JavaScript, PHP and SQL. Siempre estoy aprendiendo algo, me centro en orientarme a logros y me gusta colaborar en equipo, lo que me ayuda a superarme. También he montado instancias de AWS y he utilizado postman, Bash, Angular y Node.js. Tengo algunos conocimientos de Python, C y Java.
+Soy una programadora fullstack junior con experiencia en diversos lenguajes de programación y tecnologías web. He trabajado en proyectos utilizando JavaScript, Java, PHP y C, así como también he utilizado bases de datos SQL y no relacionales con MongoDB. Además de mis habilidades de programación, también tengo experiencia en diseño web utilizando HTML y CSS, así como en la creación de sitios web con WordPress. También he trabajado con herramientas de virtualización como Docker, Virtualbox, AWS y VMWare. He utilizado frameworks de Angular, Lumen y otras herramientas como Postman, JSP, Bootstrap, Material.io, Figma, entre otras. 
 
-## Lenguajes de programación, frameworks y herramientas
+Me apasiona el aprendizaje continuo y estoy siempre buscando mejorar mis habilidades de programación y diseño, por lo que he realizado diversos cursos de marketing digital, python, git/github, testing... Me encanta trabajar en equipo y soy una persona muy colaborativa, siempre dispuesta a compartir conocimientos y aprender de los demás. Estas inquietudes me lanzaron a la piscina de 42 Málaga, donde actualmente soy estudiante.
+
+Si esto te ha resultado interesante, no dudes en revisar mis proyectos en GitHub o visitar mi perfil de LinkedIn. 
+
+## Conocimiento tech
 
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" align="left"/>
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" align="left"/>
@@ -18,12 +22,21 @@ Mi nombre es Marina y soy programadora Frontend Junior. Me desenvuelvo bien en H
 <br>
 <br>
 
+## Algunos de mis proyectos
+
+* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
+* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
+* [Juego de cartas (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
+
 ## Experiencia
 
-### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
+### [Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma](https://fp.iescampanillas.com/ciclos-formativos/cfgs-dam/](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
 Desde septiembre de 2022 estudio un Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/). 
 
 Estos estudios desarrollan las competencias generales para desarrollar, instalar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso seguro a los datos y cumpliendo con los criterios de «usabilidad» y calidad exigidos por los estándares.
+
+### [Certificado de Profesionalidad de Desarrollo de Aplicaciones con Tecnologías Web](https://www.todofp.es/dam/todofp/certificados-profesionalidad/europass/n3-ifcd0210-es-pub.pdf)
+En noviembre de 2022 finalicé el CDP de Desarrollo de Aplicaciones con Tecnologías Web en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/), donde .
 
 ### [Estudiante en 42 Malaga](https://www.42malaga.com/)
 ![image](https://user-images.githubusercontent.com/88201067/189473952-bf70137c-0788-4d8a-b96e-ba62ad6d92c3.png) <br>
