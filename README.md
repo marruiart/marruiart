@@ -3,7 +3,11 @@
 
 # Hi there 👋
 
-My name is Marina and I am a Junior Frontend Developer. I feel confortable using Java, HTML, CSS, JavaScript, PHP and SQL. I am a lifelong learner, I try to stay focused on my goals and I love teamworking since it challenges myself to become a better developer. I have some knowledge of AWS, Lumen, Angular, Node.js, Python and C.
+I am a junior full-stack programmer with experience in several programming languages and technologies. I have developed projects using JavaScript, Java, PHP, and C, I have worked as well with both SQL and non-relational databases such as MongoDB. In addition to my programming skills, I also have experience in web design using HTML and CSS, in addition to creating websites with WordPress. I have also used virtualization tools such as Docker, Virtualbox, AWS, and VMWare. I have used frameworks such as Angular, Lumen, among other tools like Postman, JSP, Bootstrap, Material.io, Figma, etc.
+
+I am a passionate longlife learner and I am always looking to improve my programming and design skills. As a result, I have taken various courses in digital marketing, Python, Git/GitHub, testing, and other related fields. I love teamworking and I am a very collaborative person, always willing to share knowledge and learn from others. These interests led me to enroll at 42 Málaga, where I am currently a student.
+
+If you find my profile interesting, please feel free to check out my projects on [GitHub](https://github.com/marruiart?tab=repositories) or visit my [LinkedIn](https://linkedin.com/in/marruiart) profile.
 
 ## Programming languages, frameworks and tools
 
@@ -21,12 +25,22 @@ My name is Marina and I am a Junior Frontend Developer. I feel confortable using
 <br>
 <br>
 
+## Some of my projects
+
+* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
+* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
+* [Juego de cartas (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
+* [More projects](https://github.com/marruiart?tab=repositories)
+
 ## Experience
 
 ### [Multi-platform Applications Development](https://www.todofp.es/dam/jcr:7655e32d-08a3-47a7-a479-ddb6f032c63e/n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
 Since september 2022 I am studying a higher level vocational training in Multi-platform Applications Development at [Campanillas High School](https://fp.iescampanillas.com/). 
 
 With this studies, I will acquire the General Competence with regard to developing, installing, documenting and maintaining multi-platform computer applications, using technologies and specific development environments, guaranteeing secure access to data and complying with «usability» and quality criteria required by established standards.
+
+### [Professional Certificate Level 3 in Development of Applications with Web Technologies](https://www.todofp.es/dam/todofp/certificados-profesionalidad/europass/n3-ifcd0210-in-pub.pdf)
+En noviembre de 2022 finalicé el CDP de Desarrollo de Aplicaciones con Tecnologías Web en el [CIPFP Campanillas PTA](https://fp.iescampanillas.com/).
 
 ### [Student at 42 Malaga](https://www.42malaga.com/)
 ![image](https://user-images.githubusercontent.com/88201067/189473952-bf70137c-0788-4d8a-b96e-ba62ad6d92c3.png) <br>
@@ -36,14 +50,14 @@ Inside the 42 Network students are very proactive and engaged with a strong comm
 
 In July 2022 I finished the "C Piscine", a 26-day on-site pre-selection period where candidates, not yet students, complete individual projects, pass exams and improve teamwork skills. After that, I was selected to continue at 42 as a student. 
 
-#### Hard skills
+#### Hard skills developed in 42
 * __C Language__: it is the first language that we learn at 42.  dealing with variables, pointers, memory allocation, creating functions and programs, including the use and creation of libraries and Makefiles.
 
 * __Shell__: we learn basic to intermediate shell commands to seamlessly navigate through the terminal.
 
 * __Git__: all projects are submitted to a remote git repository, so students need to be familiar with this system.
 
-#### Soft skills 
+#### Soft skills improved in 42
 * __Self-learning and proactiveness__: at 42 we have to learn helping each others, searching in Google, trying and acquiring knowledge through trial and error. 
 
 * __Teamwork and communication__: the whole system is based on peer-to-peer learning. Also, from time to time we have to collaborate in groups randomly	chosen by the school's system to develop a fully running application.
