@@ -24,8 +24,8 @@ Si esto te ha resultado interesante, no dudes en revisar mis proyectos en [GitHu
 
 ## Algunos de mis proyectos
 
-* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
-* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
+* [Ilea | educación canina - Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
+* [Scanner - Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
 * [Juego de cartas (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
 * [Ver más](https://github.com/marruiart?tab=repositories)
 
