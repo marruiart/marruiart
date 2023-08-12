@@ -27,9 +27,9 @@ If you find my profile interesting, please feel free to check out my projects on
 
 ## Some of my projects
 
-* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/ilea-web)
-* [Diseño web responsive (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
-* [Juego de cartas (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
+* [Ilea | dog trainer - responsive web design (HTML & CSS)](https://marruiart.github.io/ilea-web)
+* [Scanner - responsive web design (HTML & CSS)](https://marruiart.github.io/sinf_scanner)
+* [Card game (JSP, HTML & CSS)](https://github.com/marruiart/juego_cartas)
 * [More projects](https://github.com/marruiart?tab=repositories)
 
 ## Experience
